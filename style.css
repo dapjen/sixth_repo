@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    
+}
+body{
+    background:linear-gradient(to right, #290909, #542e48, #616092, #3f9cd0, #12d9eb);
+    /*linear-gradient(to right, #051937, #1e2c6d, #5439a1, #9a39cc, #eb12eb);*/
+}
+h1{
+    text-align:center;
+}
